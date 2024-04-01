@@ -1,0 +1,14 @@
+Nama	: Saputra Yahya Wijaksono
+Nim	    : 23090170
+Kelas	: 2C
+
+STUDI KASUS 
+MENU MAKANAN:
+
+> 	Permasalahan
+Dalam kehidupan sehari-hari, seringkali kita memesan menu makanan, namun sering terjadi 
+antrian Panjang, hal ini mengakibatkan salah pesanan yang kurang tepat.
+
+> 	Solusi
+Membuat program komputer sederhana yang memungkinkan pengguna untuk membuat, 
+mengedit, dan melihat daftar menu (to-do list) mereka dengan mudah.
